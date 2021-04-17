@@ -37,6 +37,27 @@ namespace Task8var7
                 temp++;
             }
             Console.WriteLine();
+
+            //* 2. Решить уравнение ln x-x+1.8=0, х=[2;3], с шагом 0,025
+
+            double x = 2;
+            double y;
+            double step = 0.025;
+
+            while (x <= 3)
+            {
+                y = Math.Log(x, Math.E) - x + 1.8;
+                x += step;
+                //Console.WriteLine($"y = {y}");
+                if (y == 0)
+                {
+                    Console.WriteLine($"Истина y({y}) = 0");
+                }
+                else
+                {
+                    Console.WriteLine($"Ложь y({y}) != 0");
+                }
+            }
         }
     }
 }
