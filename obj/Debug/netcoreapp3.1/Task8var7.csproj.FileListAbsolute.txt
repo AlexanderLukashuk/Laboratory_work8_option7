@@ -1,0 +1,12 @@
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/bin/Debug/netcoreapp3.1/Task8var7.deps.json
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/bin/Debug/netcoreapp3.1/Task8var7.runtimeconfig.json
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/bin/Debug/netcoreapp3.1/Task8var7.runtimeconfig.dev.json
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/bin/Debug/netcoreapp3.1/Task8var7.dll
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/bin/Debug/netcoreapp3.1/Task8var7.pdb
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.csprojAssemblyReference.cache
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.AssemblyInfoInputs.cache
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.AssemblyInfo.cs
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.csproj.CoreCompileInputs.cache
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.dll
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.pdb
+/Users/sanya/работа/вариан_7/задание_8/Task8var7/obj/Debug/netcoreapp3.1/Task8var7.genruntimeconfig.cache

@@ -14,13 +14,29 @@ namespace Task8var7
             input = Console.ReadLine();
             arraySize = int.Parse(input);
             int[] numbers = new int[arraySize];
+            Random rand = new Random();
+            int temp = 0;
 
             for (int i = 0; i < arraySize; i++)
             {
-                Console.Write("Введите число: ");
+                numbers[i] = rand.Next(100);
+                Console.Write($"{numbers[i]} ");
+
+                /*Console.Write("Введите число: ");
                 input = Console.ReadLine();
-                numbers[i] = int.Parse(input);
+                numbers[i] = int.Parse(input);*/
             }
+            Console.WriteLine();
+
+            while (temp < arraySize)
+            {
+                if (numbers[temp] >= 10 && numbers[temp] <= 20)
+                {
+                    Console.Write($"{numbers[temp]} ");
+                }
+                temp++;
+            }
+            Console.WriteLine();
         }
     }
 }
